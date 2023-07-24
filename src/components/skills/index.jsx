@@ -58,7 +58,7 @@ const List = styled.ul`
     list-style-type: none;
     padding: 0px;
     font-weight: 300;
-    cursor: pointer;
+    //cursor: pointer;
     //background-color: green;
     width: 250px;
     li {
