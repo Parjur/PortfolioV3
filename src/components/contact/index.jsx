@@ -2,7 +2,6 @@ import styled from 'styled-components'
 import linkedIn from '../../assets/icons/linkedin.png'
 import github from '../../assets/icons/github.png'
 import { useForm } from 'react-hook-form'
-import axios from 'axios'
 import { useRef, useState } from 'react'
 import emailjs from '@emailjs/browser'
 
