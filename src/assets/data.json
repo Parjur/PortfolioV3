@@ -4,35 +4,35 @@
         "name": "Booki",
         "link": "https://github.com/Parjur/OCProjet2",
         "cover": "https://i.ibb.co/68BXYKg/Booki.png",
-        "description": "Booki - Site de référencement d'hôtels en ligne\n\nLe but de ce projet était d'aboutir à la mise en place d'une interface correspondant au cahier des charges et à la maquette Figma, établie selon les demandes du client.\n\nLa principale problématique était l'exactitude du rendu, et qu'il soit conforme aux attentes du client, notamment au niveau du responsive.\n\nCe projet a permis de développer mes compétences en HTML5 et CSS3."
+        "description": "Booki - Site de référencement d'hôtels en ligne\n\nLe but de ce projet était d'aboutir à la mise en place d'une interface correspondant au cahier des charges et à la maquette Figma, établie selon les demandes du client.\n\nLa principale problématique était l'exactitude du rendu, et qu'il soit conforme aux attentes du client, notamment au niveau du responsive.\n\nLe problème que j'ai rencontré était le responsive : la dimension de certains éléments posés un problème. Pour résoudre cela, j'ai appliqué des propriétés CSS qui me permettaient de mieux repérer les problèmes (bords fins rouges par exemple).\n\nCe projet a permis de développer mes compétences en HTML5 et CSS3."
     },
     {
         "id": "2",
         "name": "Sophie Bluel",
         "link": "https://github.com/Parjur/SophieBluel",
         "cover": "https://i.ibb.co/KqnhwV5/Bluel.png",
-        "description": "Sophie Bluel - Architecte d'intérieur\n\nCe projet avait pour objectif de développer la partie frontend du site, et plus particulièrement la partie dynamique, qui est ici en Javascript (vanilla).\n\nLes problématique de ce projet étaient la gestion de l'API avec les requêtes GET, POST et DELETE, ainsi que l'affichage de fonction dynamique du site, tels que la galerie d'image ou encore la modale pour mettre en ligne et supprimer des photos.\n\nCe projet m'a permis de développer mes compétences en Javascript."
+        "description": "Sophie Bluel - Architecte d'intérieur\n\nCe projet avait pour objectif de développer la partie frontend du site, et plus particulièrement la partie dynamique, qui est ici en Javascript (vanilla).\n\nLes problématique de ce projet étaient la gestion de l'API avec les requêtes GET, POST et DELETE, ainsi que l'affichage de fonction dynamique du site, tels que la galerie d'image ou encore la modale pour mettre en ligne et supprimer des photos.\n\nMon principal problème lors de ce projet était la gestion de l'API : je n'arrivais pas à obtenir les résultats voulus. J'ai donc utilisé Swagger pour mieux comprendre l'API et les types de réponses renvoyées ou attendues selon les requêtes.\n\nCe projet m'a permis de développer mes compétences en Javascript."
     },
     {
         "id": "3",
         "name": "Nina Carducci",
         "link": "https://github.com/Parjur/OCProjet5",
         "cover": "https://i.ibb.co/3dSFDHv/Carducci.png",
-        "description": "Nina Carducci - Photographe indépendante\n\nLe but de ce projet était d'optimiser le site d'une photographe.\n\nEn effectuant un audit avec Google Lighthouse, la mission était d'obtenir un audit avec 90 ou plus aux scores de Performance, SEO, Accessibility et Best Practices. Également, il fallait trouver les bugs du site et les corriger.\n\nCe projet m'a permis de comprendre les enjeux de l'optimisation des sites sur le web, ainsi que les bonnes pratiques à avoir pour obtenir la meilleure indexation possible sur les moteurs de recherche."
+        "description": "Nina Carducci - Photographe indépendante\n\nLe but de ce projet était d'optimiser le site d'une photographe.\n\nEn effectuant un audit avec Google Lighthouse, la mission était d'obtenir un audit avec 90 ou plus aux scores de Performance, SEO, Accessibility et Best Practices. Également, il fallait trouver les bugs du site et les corriger.\n\nMon principal problème était d'obtenir un résultat de 90 en performances. J'ai donc dû décortiquer le code du site pour trouver quelles étaient les fonctionnalités essentielles du site, et celles facultatives pouvant être supprimées.\n\nCe projet m'a permis de comprendre les enjeux de l'optimisation des sites sur le web, ainsi que les bonnes pratiques à avoir pour obtenir la meilleure indexation possible sur les moteurs de recherche."
     },
     {
         "id": "4",
         "name": "Kasa",
         "link": "https://github.com/Parjur/OCProjet6",
         "cover": "https://i.ibb.co/TR4D31m/Kasa.png",
-        "description": "Kasa - Site de location d'hébergements pour particuliers\n\nL'objectif de ce projet était de construire tout le frontend selon la maquette Figma fournie.\n\nObjectif : construire un frontend d'A à Z en utilisant uniquement React sans autres bibliothèques sauf react-dom-router.\nLa principale problématique était la gestion des composants, ainsi que les interactions entre eux, notamment les appels de variables entre composants parent/enfant.\n\nCe projet m'a permis de développer mes compétences en React et l'utilisation des libraires."
+        "description": "Kasa - Site de location d'hébergements pour particuliers\n\nL'objectif de ce projet était de construire tout le frontend selon la maquette Figma fournie.\n\nObjectif : construire un frontend d'A à Z en utilisant uniquement React sans autres bibliothèques sauf react-dom-router.\nLa principale problématique était la gestion des composants, ainsi que les interactions entre eux, notamment les appels de variables entre composants parent/enfant.\n\nMon problème pour ce projet était les restrictions du projet : aucune librairie sauf react-router-dom. J'ai donc dû chercher de la documentation en ligne pour coder manuellement différents composants essentiels au site (comme les collapse par exemple).\n\nCe projet m'a permis de développer mes compétences en React et l'utilisation des libraires."
     },
     {
         "id": "5",
         "name": "Mon Vieux Grimoire",
         "link": "https://github.com/Parjur/MonVieuxGrimoire",
         "cover": "https://i.ibb.co/0DPzFt2/Grimoire.png",
-        "description": "Mon Vieux Grimoire - Site de notation de livres en ligne\n\nLa mission était de développer le backend de ce site à partir d'un code frontend fourni.\n\nPour ce projet, il a fallu développer l'API pour gérer les différentes requêtes GET, POST, PUT et DELETE. Il fallut également gérer les images des livres mis en ligne parmi les fichiers du backend, notamment la suppression des images des livres supprimés de la base de données.\n\nCe projet m'a permis de développer mes compétences en NodeJS et également l'utilisation de MongoDB Atlas."
+        "description": "Mon Vieux Grimoire - Site de notation de livres en ligne\n\nLa mission était de développer le backend de ce site à partir d'un code frontend fourni.\n\nPour ce projet, il a fallu développer l'API pour gérer les différentes requêtes GET, POST, PUT et DELETE. Il fallut également gérer les images des livres mis en ligne parmi les fichiers du backend, notamment la suppression des images des livres supprimés de la base de données.\n\nMon principal problème pour ce projet était la gestion des erreurs. J'ai donc dû regarder la documentation pour savoir ce que devait renvoyer mon API pour qu'elle communique correctement avec la structure frontend de départ.\n\nCe projet m'a permis de développer mes compétences en NodeJS et également l'utilisation de MongoDB Atlas."
     }
 ]
 
